@@ -41,8 +41,8 @@ body {
 
 .gradient-circle {
   background: conic-gradient(
-    skyblue 0%,
-    skyblue 40%,
+    blue 0%,
+    blue 40%,
     #fff 40%,
     #fff 60%,
     skyblue 60%,
